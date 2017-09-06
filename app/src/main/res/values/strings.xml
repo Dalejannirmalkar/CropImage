@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CropImage</string>
+    <string name="facebook_app_id">173806016498935</string>
+    <string name="title_activity_photo_grid">PhotoGrid</string>
+
+</resources>
